@@ -82,5 +82,6 @@
       startScreen.style.display = "block";
       restartBtn.style.display = "none";
       resultBox.style.display = "none";
+        reset();
     }
  
