@@ -1,0 +1,5 @@
+# ✅ Count JavaScript files as primary
+*.js linguist-detectable=true
+
+
+style.css linguist-detectable=false
